@@ -1,2 +1,2 @@
 # Chatterbot
-Chatterbot who learning for himself in C++
+Chatterbot who learning for itself in C++
